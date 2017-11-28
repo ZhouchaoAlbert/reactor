@@ -17,6 +17,7 @@ public:
 
 private:
     int _socket_fd;
+    char* _buf;
 };
 
 
